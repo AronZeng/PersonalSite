@@ -1,3 +1,3 @@
 # PersonalSite
 
-Check it out at: (aronzeng.herokuapp.com)
+[Check it out at:] (aronzeng.herokuapp.com)
